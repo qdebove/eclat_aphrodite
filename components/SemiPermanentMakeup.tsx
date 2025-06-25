@@ -16,8 +16,8 @@ export default function SemiPermanentMakeup() {
               </div>
             ))}
           </div>
-          <p className="mt-4 italic">Ravivez votre beauté avec un maquillage semi-permanent, c’est aussi gagner du temps, sans tirer un trait sur votre image.</p>
-          <p className="mt-2">Si vous ne souhaitez pas passer par la technique de dermopigmentation, voici l’alternative parfaite. La teinture hybride et la reconstruction des sourcils au henné est la solution ! C’est une option douce, sans douleur ni aiguille. Idéales pour structurer le regard, corriger les asymétries ou tester avant un microblading. Ces techniques ont une tenue de 10 jours sur la peau et jusqu’à 6 semaines sur les poils. L’effet maquillage reste naturel et réversible. Un vrai coup d’éclat, sans remord!</p>
+          <p className="mt-4 italic">Ravivez votre beauté avec un maquillage semi-permanent, c&apos;est aussi gagner du temps, sans tirer un trait sur votre image.</p>
+          <p className="mt-2">Si vous ne souhaitez pas passer par la technique de dermopigmentation, voici l&apos;alternative parfaite. La teinture hybride et la reconstruction des sourcils au henné est la solution ! C&apos;est une option douce, sans douleur ni aiguille. Idéales pour structurer le regard, corriger les asymétries ou tester avant un microblading. Ces techniques ont une tenue de 10 jours sur la peau et jusqu&apos;à 6 semaines sur les poils. L&apos;effet maquillage reste naturel et réversible. Un vrai coup d&apos;éclat, sans remord!</p>
         </div>
         <div className="md:w-1/2">
           <img src="/assets/brows.jpg" alt="Teinture hybride sourcils" className="rounded-lg shadow" />

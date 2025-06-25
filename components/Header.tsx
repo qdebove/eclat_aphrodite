@@ -5,7 +5,7 @@ export default function Header() {
       <div className="container mx-auto flex items-center justify-between py-4 px-4">
         <div className="flex items-center">
           <img src="/assets/logo.png" alt="L'Éclat d'Aphrodite Logo" className="h-16 w-auto" />
-          <h1 className="ml-4 text-2xl italic">L'Éclat d'Aphrodite</h1>
+          <h1 className="ml-4 text-2xl italic">L&apos;Éclat d&apos;Aphrodite</h1>
         </div>
         <nav>
           <ul className="flex space-x-6">
