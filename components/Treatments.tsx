@@ -1,9 +1,17 @@
+import Image from 'next/image';
+
 export default function Treatments() {
   return (
     <section id="treatments" className="bg-pink-200 p-12 rounded-lg">
       <div className="md:flex gap-8">
         <div className="md:w-1/2">
-          <img src="/assets/fil-de-soie.jpg" alt="Fil de soie collagène" className="rounded-lg" />
+          <Image
+            src="/assets/images/operation.jpeg"
+            alt="Fil de soie collagène"
+            width={500}
+            height={500}
+            className="rounded-lg"
+          />
         </div>
         <div className="md:w-1/2 space-y-4">
           <h3 className="text-xl font-semibold">Le nouveau traitement anti-rides sans chirurgie</h3>
